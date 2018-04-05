@@ -6,8 +6,8 @@
 */
 
 #include <RCSwitch.h>
-#include "RfProcl.h"
-#include "RfDevices.h"
+#include <RfProcl.h>
+#include <RfDevices.h>
 
 #define WEMOS_PIN_D0                    16u // D0
 #define WEMOS_PIN_D1                    5u  // D1

@@ -41,7 +41,8 @@ vAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 /****************************************************************************************/
 /* Include Interfaces */
 #include <RCSwitch.h>
-#include "RfProcl.h"
+#include <RfProcl.h>
+#include <RfDevices.h>
 
 /****************************************************************************************/
 /* Local constant defines */
